@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Reginaldo Castro!
 
 ### 🚀 Sobre mim
-- 💻 Desenvolvedor especializado em **Python**, **Django**, **Docker**, **JavaScript**, **HTML/CSS**.
-- 🔧 Experiência com **Django REST Framework**, **AWS**, **Jenkins**, e **PostgreSQL**.
-- 🌱 Sempre disponível a aprender em projetos open-source.
+- 💻 Sou desenvolvedor de software com experiência no desenvolvimento de sistemas web, APIs e soluções escaláveis. Atuo principalmente no ecossistema backend, cloud e DevOps, focado em **Inteligência Artificial** e **Aprendizado de Máquina**.
+- 🔧 Tenho experiência no desenvolvimento de aplicações completas, desde a arquitetura do sistema até a implantação em ambientes cloud. Atualmente estou aprofundando meus estudos em **Machine Learning**, **Deep Learning** e **análise de dados**, buscando integrar **engenharia de software** com soluções baseadas em **IA**.
+- 🌱 Também tenho interesse em projetos open-source, arquitetura de sistemas distribuídos e aplicações de inteligência artificial.
 
 ### 🌟 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,6 +15,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🌐 Site
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://reginaldo-castro.github.io/reginaldo.github.io/#no)
