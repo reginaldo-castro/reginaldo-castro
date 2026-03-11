@@ -33,8 +33,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![Credly Badge](https://images.credly.com/images/0bcfab88-8cba-4d20-abb3-f467ef27d149.png)](https://www.credly.com/badges/0bcfab88-8cba-4d20-abb3-f467ef27d149/public_url)
-
+[![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/0bcfab88-8cba-4d20-abb3-f467ef27d149/public_url)
 ### 🌐 Site
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://reginaldo-castro.github.io/reginaldo.github.io/#no)
 
